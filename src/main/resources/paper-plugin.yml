@@ -1,0 +1,4 @@
+name: WolfControl
+version: '${project.version}'
+main: fr.airels.minecraft.wolfcontrol.WolfControlPlugin
+api-version: '26.3'
